@@ -1,0 +1,13 @@
+target/
+photon_data/
+dependency-reduced-pom.xml
+
+.idea/
+*.iml
+*.~*
+
+__pycache__
+
+nb-configuration.xml
+
+nbactions.xml
